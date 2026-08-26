@@ -20,7 +20,7 @@ on the page
 
 * Adjacent to the story's title, the story's score, number of comments, and author's username should be visible
 
-* Feel free to make your site should look a little nicer than the real Hacker News
+* Feel free to make your site look a little nicer than the real Hacker News
 
 
 ## Steps
