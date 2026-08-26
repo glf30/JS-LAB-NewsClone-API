@@ -39,7 +39,7 @@ browse popular color palettes for your design: https://coolors.co/palettes/popul
 Before diving into the API aspect of this assignment, first lets add a single story
 to the DOM. This code will be a blueprint that will help later on. 
 
-To do this, use `document.createElement` along with `.appendChild` in your Javascript.
+To do this, use `document.createElement` along with `.append` in your Javascript.
 
 ```javascript
 
